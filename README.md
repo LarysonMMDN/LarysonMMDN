@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @LarysonMMDN
+- 👋 Hi, I’m  Laryson Mendonça
 - 👀 I’m interested in the profession of software engineering
 -  🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 💞️ I’m looking to collaborate in systems development and future websites
+- 📫 How to reach me 
+  Phone: (62) 9 9553-5293
+  Email: larysonmartins008@gmail.com
+  Linkedin: www.linkedin.com/in/LarysonMendonça
+- 😄 Pronouns: Ele/Dele
 - ⚡ Fun fact: ...
 
 <!---
