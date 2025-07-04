@@ -36,4 +36,4 @@ Tenho profundo interesse por **Tecnologia** e estou sempre em busca de oportunid
 
 ---
 
-Estou aberto a novas conexões e oportunidades de colaboração. Se você tiver algum projeto interessante ou quiser discutir sobre tecnologia, não hesite em me contatar!
+Se você tiver algum projeto interessante ou quiser trocar ideias sobre tecnologia, ficarei feliz em conversar!
